@@ -1,0 +1,15 @@
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\bin\Debug\CateringApp.exe.config
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\bin\Debug\CateringApp.exe
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\bin\Debug\CateringApp.pdb
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.csprojAssemblyReference.cache
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.Authorization.resources
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.PricerMenuForm.resources
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.Properties.Resources.resources
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.csproj.GenerateResource.cache
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.csproj.CoreCompileInputs.cache
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.exe
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.pdb
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.AddProductForm.resources
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.MainMenuForm.resources
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.AddClientForm.resources
+D:\Educations\7Sem\Kursa4\CateringApp\CateringApp\obj\Debug\CateringApp.CookerMenuForm.resources
